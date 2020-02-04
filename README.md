@@ -1,2 +1,2 @@
-# simplec-
+# simplec++
 just a sample tutorial
